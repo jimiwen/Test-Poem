@@ -2,6 +2,7 @@ The rainbow and the unicorn
 purple
 pink
 orange
+indigo
 red
 green
 yellow
